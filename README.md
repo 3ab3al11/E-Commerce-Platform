@@ -1,5 +1,7 @@
 # E-Commerce Platform
 
+![E-Commerce Platform](docs/ecommerce-platform-thumbnail.png)
+
 An individual e-commerce project implemented in two .NET 9 applications: an ASP.NET Core MVC storefront and administration portal, and a RESTful ASP.NET Core Web API for client integrations.
 
 ## Projects
@@ -106,4 +108,3 @@ Database migrations and application roles are applied during startup. The API la
 ## Security configuration
 
 No SMTP password, Stripe secret, JWT signing key, or seeded administrator password is committed to this repository. Store private values with .NET User Secrets during development and use a managed secret store or environment variables in deployed environments.
-

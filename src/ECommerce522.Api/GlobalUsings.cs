@@ -1,0 +1,9 @@
+﻿global using ECommerce522.APIV9.Data;
+global using ECommerce522.APIV9.Models;
+global using ECommerce522.APIV9.DTOs.Requests;
+global using ECommerce522.APIV9.DTOs.Responses;
+global using ECommerce522.APIV9.Data.EntityConfigurations;
+global using ECommerce522.APIV9.Repositories.IRepositories;
+global using ECommerce522.APIV9.Repositories;
+global using ECommerce522.APIV9.Utilities;
+global using ECommerce522.APIV9.Utilities.DBInitializer;
